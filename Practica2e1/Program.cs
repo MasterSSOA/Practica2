@@ -16,7 +16,6 @@ class Program
 
             if (int.TryParse(Validation, out Value))
             {
-                Value = Convert.ToInt32(Validation);
                 if (Value % 2 == 0)
                 {
                     Console.WriteLine("El número {0} es par.", Value);

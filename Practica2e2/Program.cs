@@ -25,8 +25,6 @@ class Program
 
             if (int.TryParse(Validation, out Age))
             {
-                Age = Convert.ToInt32(Validation);
-
                 if (Age <= 10)
                 {
                     Console.WriteLine("{0} año(s) es la edad de un niño.", Age);

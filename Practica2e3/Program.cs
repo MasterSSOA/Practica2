@@ -22,7 +22,5 @@ class Program
                               "El primer número NO ES MAYOR que el segundo.\n", Value1, Value2);
             Console.ReadKey();
         }
-
     }
-
 }
