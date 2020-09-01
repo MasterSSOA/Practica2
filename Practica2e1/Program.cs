@@ -7,10 +7,9 @@ class Program
         // Practica 2 Ejercicio 1. 
         // Nota : Programa capaz de evaluar un numero y decir si es par o no.
 
-        int Value;
         string Validation = "";
 
-        while (!int.TryParse(Validation, out Value))
+        while (!int.TryParse(Validation, out int Value))
         {
             Console.WriteLine("Digite un Número: ");
             Validation = Console.ReadLine();
