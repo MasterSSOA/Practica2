@@ -11,7 +11,7 @@ class Program
         // *	Niños (0 – 10)		*
         // *	Adolescentes (11 – 17)	*
         // *	Adulto joven (18 – 38)	*
-        // *	Mediana Edad (39-59)	*
+        // *	Mediana Edad (39 - 59)	*
         // *	Adulto mayor (60 – 99)	*
         // *				*
         // ******************************
