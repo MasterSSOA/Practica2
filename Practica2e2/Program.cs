@@ -1,21 +1,21 @@
-﻿using System;
+﻿// Practica 2 Ejercicio 2. 
+// Nota : Programa capaz de evaluar edad del usuario y clasificarlo.
+//      TABLA DE CLASIFICACION
+// ******************************
+// *	Niños (0 – 10)		*
+// *	Adolescentes (11 – 17)	*
+// *	Adulto joven (18 – 38)	*
+// *	Mediana Edad (39 - 59)	*
+// *	Adulto mayor (60 – 99)	*
+// *				*
+// ******************************
+
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Practica 2 Ejercicio 2. 
-        // Nota : Programa capaz de evaluar edad del usuario y clasificarlo.
-        //      TABLA DE CLASIFICACION
-        // ******************************
-        // *	Niños (0 – 10)		*
-        // *	Adolescentes (11 – 17)	*
-        // *	Adulto joven (18 – 38)	*
-        // *	Mediana Edad (39 - 59)	*
-        // *	Adulto mayor (60 – 99)	*
-        // *				*
-        // ******************************
-
         string Validation = "";
         
         while (!int.TryParse(Validation, out int Age))
@@ -66,10 +66,7 @@ class Program
             else
             {
                 Console.WriteLine("Digite un caracter de tipo númerico!\n");
-            }
-            
-
+            }   
         }
-
     }
 }

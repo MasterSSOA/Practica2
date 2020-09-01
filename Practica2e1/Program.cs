@@ -1,12 +1,12 @@
-﻿using System;
+﻿// Practica 2 Ejercicio 1. 
+// Nota : Programa capaz de evaluar un numero y decir si es par o no.
+
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Practica 2 Ejercicio 1. 
-        // Nota : Programa capaz de evaluar un numero y decir si es par o no.
-
         string Validation = "";
 
         while (!int.TryParse(Validation, out int Value))
