@@ -1,5 +1,5 @@
 ﻿// Practica 2 Ejercicio 1. 
-// Nota : Programa capaz de evaluar un numero y decir si es par o no.
+// Nota : Programa capaz de evaluar un número y decir si es par o no.
 
 using System;
 

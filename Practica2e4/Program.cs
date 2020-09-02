@@ -1,6 +1,6 @@
 ﻿// Practica 2 Ejercicio 4. 
-// Nota : Programa capaz de selecccionar una opcion interactiva y realizar el tipo 
-// operacion seleccionada mediante dos numeros.
+// Nota : Programa capaz de selecccionar una opción interactiva y realizar el tipo 
+// operación seleccionada mediante dos números.
 
 using System;
 

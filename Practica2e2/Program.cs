@@ -1,6 +1,6 @@
 ﻿// Practica 2 Ejercicio 2. 
 // Nota : Programa capaz de evaluar edad del usuario y clasificarlo.
-//      TABLA DE CLASIFICACION
+//      TABLA DE CLASIFICACIÓN
 // ******************************
 // *	Niños (0 – 10)		*
 // *	Adolescentes (11 – 17)	*
