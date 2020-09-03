@@ -30,31 +30,26 @@ class Program
                     Console.WriteLine("{0} año(s) es la edad de un niño.", Age);
                     Console.ReadKey();
                 }
-                
                 else if (11 <= Age && Age <= 17)
                 {
                     Console.WriteLine("{0} año(s) es la edad de un adolescente.", Age);
                     Console.ReadKey();
                 }
-
                 else if (18 <= Age && Age <= 38)
                 {
                     Console.WriteLine("{0} año(s) es la edad de un adulto joven.", Age);
                     Console.ReadKey();
                 }
-
                 else if (39 <= Age && Age <= 59)
                 {
                     Console.WriteLine("{0} año(s) pertenece a la mediana Edad.", Age);
                     Console.ReadKey();
                 }
-
                 else if (60 <= Age && Age <= 99)
                 {
                     Console.WriteLine("{0} año(s) es la edad de un adulto mayor.", Age);
                     Console.ReadKey();
                 }
-
                 else
                 {
                     Console.WriteLine("Esta edad no esta contemplada dentro de nuestros registros.");

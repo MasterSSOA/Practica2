@@ -13,7 +13,6 @@ class Program
         {
             Console.WriteLine("Digite un Número: ");
             Validation = Console.ReadLine();
-
             if (int.TryParse(Validation, out Value))
             {
                 if (Value % 2 == 0)

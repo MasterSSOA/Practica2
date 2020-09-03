@@ -20,7 +20,6 @@ class Program
             {
                 Console.WriteLine("\nDato invalido. Intente de nuevo!\n");
             }
-            
             else
             {
                 double Value1;
@@ -46,16 +45,13 @@ class Program
                         Console.WriteLine("\nSolo se trabajan con números.\n");
                         Console.ReadKey();
                     }
-                    
                     else
                     {
                         Total = Value1 + Value2;
                         Console.WriteLine("\nTotal: {0}\n", Total);
                         Console.ReadKey();
-                        
                     }
                 }
-
                 else if (Option == 'r')
                 {
                     Console.WriteLine("\nPrimer Número:  ");
@@ -69,16 +65,13 @@ class Program
                         Console.WriteLine("\nSolo se trabajan con números.\n");
                         Console.ReadKey();
                     }
-                    
                     else
                     {
                         Total = Value1 - Value2;
                         Console.WriteLine("\nTotal: {0}\n", Total);
                         Console.ReadKey();
-                        
                     }
                 }
-
                 else
                 {
                     Console.WriteLine("\nDato invalido. Intente de nuevo!\n");
