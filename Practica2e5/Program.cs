@@ -1,6 +1,9 @@
 ﻿// Practica 2 Ejercicio 5. 
 // Nota : Programa capaz de realizar retiros a partir de un monto dado.
 // Monto disponible iniciar de RD$18,765.43 pesos dominicanos.
+//
+//
+//                                            © By Anthony Reyes Duran
 
 using System;
 
@@ -67,6 +70,7 @@ class Program
             catch (Exception e)
             {
                 Console.WriteLine("\n{0}\n\n **ERROR : {1}**\n{0}", Line, e.Message.ToString());
+                Console.ReadKey();
             }
         }
 

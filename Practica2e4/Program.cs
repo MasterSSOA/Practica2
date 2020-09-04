@@ -1,6 +1,9 @@
 ﻿// Practica 2 Ejercicio 4. 
 // Nota : Programa capaz de selecccionar una opción interactiva y realizar el tipo 
 // operación seleccionada mediante dos números.
+//
+//
+//                                                        © By Anthony Reyes Duran
 
 using System;
 

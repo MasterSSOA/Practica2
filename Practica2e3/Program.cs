@@ -1,5 +1,8 @@
 ﻿// Practica 2 Ejercicio 3. 
 // Nota : Programa capaz de evaluar si el primer número almacenado es mayor que el segundo.
+//
+//
+//                                                                 © By Anthony Reyes Duran
 
 using System;
 

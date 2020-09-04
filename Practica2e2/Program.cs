@@ -9,6 +9,9 @@
 // *	Adulto mayor (60 – 99)	*
 // *				*
 // ******************************
+//
+//
+//                                          © By Anthony Reyes Duran
 
 using System;
 

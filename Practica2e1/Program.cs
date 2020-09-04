@@ -1,5 +1,8 @@
 ﻿// Practica 2 Ejercicio 1. 
 // Nota : Programa capaz de evaluar un número y decir si es par o no.
+//
+//
+//                                           © By Anthony Reyes Duran
 
 using System;
 
